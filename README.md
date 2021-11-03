@@ -1,5 +1,6 @@
 # jobTrackingSystemDatabase
 Job-tracking system designed in MS Visio and implemented in SQL Server Management Studio for IT 111 (Database Design) course at Cincinnati State
+Includes multiple queries
 
 IT-111 Database Design and SQL 1
 FINAL PROJECT
